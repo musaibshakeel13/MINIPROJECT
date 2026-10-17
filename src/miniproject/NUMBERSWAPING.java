@@ -1,6 +1,5 @@
 
 package miniproject;
-
 import java.util.Scanner;
 public class NUMBERSWAPING {
     public static void main(String[] args) {
